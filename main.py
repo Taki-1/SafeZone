@@ -16,7 +16,6 @@ def background():
     while True:
         cTime = datetime.datetime.now().strftime("%I:%M %p")
         time.sleep(1)
-        print(cTime)
         if(cTime >= flagTime):
             os.system("shutdown /s /t 1")
 

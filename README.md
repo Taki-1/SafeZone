@@ -1,3 +1,3 @@
 # Project SafeZone
-# This script is build to make my own self stop using
-# computer after 12 at night
+# Another script to force the computer to sleep
+# target time 12am
